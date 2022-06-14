@@ -1,1 +1,1 @@
-# GitHub.-HW_2
+# GitHub_HW2
